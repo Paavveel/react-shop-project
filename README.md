@@ -1,12 +1,5 @@
-# React Shop Portfolio Project
+# React Shop Project
 
 [Demo](https://paavveel.github.io/react-shop-project/).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Магазин педметов по игре Fortnite использующее Fortnite API. Предметы в магазине обновляются ежедневно. При нажатии кнопки купить предмет добавляется в корзину, в корзине можно удалять, увеличивать и уменьшать колличество предметов.
